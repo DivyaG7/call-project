@@ -1,4 +1,4 @@
-const socket = io("https://your-backend-url.com");
+const socket = io("https://call-project.onrender.com");
 
 let localStream;
 let remoteStream;
